@@ -1,4 +1,4 @@
-%%writefile app.py
+
 # @title
 """
 TOPO-VCE V3 — Interfaz Streamlit (app.py)
