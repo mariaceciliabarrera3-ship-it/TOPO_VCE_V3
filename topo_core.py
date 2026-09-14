@@ -1,4 +1,4 @@
-%%writefile topo_core.py
+
 """
 TOPO-VCE V3 - Núcleo Matemático Completo
 Consolidado y verificado por el evaluador a partir de:
